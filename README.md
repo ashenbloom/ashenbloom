@@ -1,6 +1,6 @@
 <div align="center">
 <h3>Contact Information</h3>
-<a href="https://discord.com/users/979786819673669671" target"blank_"><img src="https://img.shields.io/badge/@starbloomx%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="https://discord.com/users/1192060600868671617" target"blank_"><img src="https://img.shields.io/badge/@_ashenworks%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
 <a href="https://github.com/ashenbloom" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div align="center">
 <h3>Discord Activity</h3>
-   <a href="https://discord.com/users/979786819673669671" target="_blank">
+   <a href="https://discord.com/users/1192060600868671617" target="_blank">
       <img src="https://lanyard-profile-readme.vercel.app/api/979786819673669671?bg=0d1117&animated=true&hideDiscrim=false&borderRadius=31px">
    </a>
 </div>
