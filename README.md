@@ -1,6 +1,6 @@
 <div align="center">
 <h3>Contact Information</h3>
-<a href="https://discord.com/users/1192060600868671617" target"blank_"><img src="https://img.shields.io/badge/@_ashenworks%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="https://discord.com/users/1192060600868671617" target"blank_"><img src="https://img.shields.io/badge/@29bh%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
 <a href="https://github.com/ashenbloom" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 </div>
 
